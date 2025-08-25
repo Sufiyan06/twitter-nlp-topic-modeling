@@ -15,7 +15,7 @@ It demonstrates an end-to-end pipeline including data cleaning, text preprocessi
 ## ⚡ How to Run It
 1. Clone this repository or download the notebook:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/twitter-nlp-topic-modeling.git
+   git clone https://github.com/Sufiyan06/twitter-nlp-topic-modeling.git
    
 2. Install required Python libraries:
 pip install pandas numpy nltk spacy gensim pyLDAvis matplotlib seaborn
